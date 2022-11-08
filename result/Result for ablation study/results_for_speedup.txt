@@ -1,0 +1,44 @@
+Results for compiler auto-tuning. 
+====================================================
+GCC
+====================================================
+correlation:
+-——————————————Speedup-——————————————
+CompTuner:[1.03512, 1.04160, 1.07990]
+CompTuner_high:[1.03302, 1.04139, 1.04406]
+CompTuner_impact:[1.03894, 1.05546, 1.05842]
+
+
+covariane:
+-——————————————Speedup-——————————————
+CompTuner:[1.02618, 1.06911, 1.08050]
+CompTuner_high:[1.01844, 1.02139, 1.03778]
+CompTuner_impact:[1.02357, 1.07698, 1.09984]
+
+
+symm:
+-——————————————Speedup-——————————————
+CompTuner:[1.01087, 1.03464, 1.04018]
+CompTuner_high:[1.01426, 1.02847, 1.03923]
+CompTuner_impact:[1.01271, 1.02265, 1.03499]
+
+
+automotive_bitcount:
+-——————————————Speedup-——————————————
+CompTuner:[1.22814, 1.28648, 1.38253]
+CompTuner_high:[1.26654, 1.28620, 1.32092]
+CompTuner_impact:[1.23972, 1.28105, 1.34047]
+
+
+automotive_susan_e:
+-——————————————Speedup-——————————————
+CompTuner:[1.28702, 1.38253, 1.42463]
+CompTuner_high:[1.32364, 1.43888, 1.48629]
+CompTuner_impact:[1.37129, 1.38051, 1.42792]
+
+
+automotive_susan_c:
+-——————————————Speedup-——————————————
+CompTuner:[1.21696, 1.27778, 1.32722]
+CompTuner_high:[1.22385, 1.26910, 1.30601]
+CompTuner_impact:[1.21984, 1.27132, 1.28719]
