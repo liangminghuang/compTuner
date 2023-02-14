@@ -10,3 +10,4 @@ The folder `Result for ablation study`  contains the results for our **Ablation 
 
 -  `results_for_prediction_err.txt` presents $CompTuner's, CompTuner_{high}'s$ prediction error on P1, P2, P3, C1, C2, C3. We use the mean value of the 50 test samples' prediction error as the result of Figure 2 and Figure 3 in our paper.
 
+The folder `Result for Discussion`  contains the results for our Section **Discussion** 
