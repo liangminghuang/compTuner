@@ -4,72 +4,74 @@ GCC
 ====================================================
 correlation:
 -——————————————Speedup-——————————————
-CompTuner:[]
-CompTuner_one-time:[]
+CompTuner:[1.042, 1.047, 1.046]
+CompTuner_one-time:[1.021, 1.028, 1.031]
 
 
 covariane:
 -——————————————Speedup-——————————————
-CompTuner:[]
-CompTuner_one-time:[]
+CompTuner:[1.061, 1.053, 1.055]
+CompTuner_one-time:[1.033, 1.034, 1.028]
 
 
 symm:
 -——————————————Speedup-——————————————
-CompTuner:[]
-CompTuner_one-time:[]
+CompTuner:[1.019, 1.026, 1.027]
+CompTuner_one-time:[1.011, 1.014, 1.024]
 
 
 automotive_bitcount:
 -——————————————Speedup-——————————————
-CompTuner:[]
-CompTuner_one-time:[]
+CompTuner:[1.289, 1.285, 1.277]
+CompTuner_one-time:[1.198, 1.246, 1.244]
 
 
 automotive_susan_e:
 -——————————————Speedup-——————————————
-CompTuner:[]
-CompTuner_:[]
+CompTuner:[1.322, 1.348, 1.353]
+CompTuner_:[1.410, 1.437, 1.394]
 
 
 automotive_susan_c:
 -——————————————Speedup-——————————————
-CompTuner:[]
-CompTuner_one-time:[]
+CompTuner:[1.246, 1.257, 1.249]
+CompTuner_one-time:[1.198, 1.201, 1.239]
+
+
 ====================================================
 GCC
 ====================================================
 correlation:
 -——————————————Error-——————————————
-CompTuner:[]
-CompTuner_one-time:[]
+CompTuner:[0.035, 0.031, 0.032]
+CompTuner_one-time:[0.039, 0.039, 0.034]
 
 
 covariane:
 -——————————————Error-——————————————
-CompTuner:[]
-CompTuner_one-time:[]
+CompTuner:[0.019, 0.024, 0.021]
+CompTuner_one-time:[0.026, 0.024, 0.029]
 
 
 symm:
 -——————————————Error-——————————————
-CompTuner:[]
-CompTuner_one-time:[]
+CompTuner:[0.044, 0.041, 0.040]
+CompTuner_one-time:[0.037, 0.035, 0.031]
 
 
 automotive_bitcount:
 -——————————————Error-——————————————
-CompTuner:[]
-CompTuner_one-time:[]
+CompTuner:[0.024, 0.030, 0.039]
+CompTuner_one-time:[0.053, 0.044, 0.036]
 
 
 automotive_susan_e:
 -——————————————Error-——————————————
-CompTuner:[]
-CompTuner_:[]
+CompTuner:[0.041, 0.032, 0.028]
+CompTuner_:[0.023, 0.014, 0.020]
 
 
 automotive_susan_c:
 -——————————————Error-——————————————
-CompTuner:[]
-CompTuner_one-time:[]
+CompTuner:[0.033, 0.025, 0.029]
+CompTuner_one-time:[0.039, 0.031, 0.030]
